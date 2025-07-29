@@ -10,10 +10,5 @@ Project Objectives
 
 Requirements
 - Set up Splunk Enterprise (local) or Splunk Cloud (free trial)
-- Download the practice log [bns_practice.csv]
+- Download the practice log 
 
-Steps to Begin
-- Open your Splunk instance and create an index 'bns_practice'.
-- Navigate to `Settings > Add Data`.
-- upload `bns_practice.csv` with source type as `csv`.
-- Follow the step-by-step tutorials in the `/tutorials` folder.
