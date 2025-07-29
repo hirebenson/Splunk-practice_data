@@ -10,5 +10,5 @@ Project Objectives
 
 Requirements
 - Set up Splunk Enterprise (local) or Splunk Cloud (free trial)
-- Download the practice log 
+- Download the practice log : [bns_practice.csv](https://github.com/user-attachments/files/21486614/bns_practice.csv)
 
